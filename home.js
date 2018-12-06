@@ -44,6 +44,7 @@ run(5000, 5); //milliseconds, frames;
 
 })
 
+
 	// $(element).animate( { 'property': 'value' }, time );
 
 	// $('.quote-img').animate({'left': '700px'}, 750);
